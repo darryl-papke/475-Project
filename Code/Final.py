@@ -8,7 +8,7 @@ This code uses the FIRST CORPUS mentioned in the final write up.
 
 The NLTK and openpyxl libraries are used in this code.
 
-The openpyxl library is used to open and read in the excel files that I used.
+The openpyxl library is used to open and read in the data from the excel files that I used.
 '''
 
 from openpyxl import load_workbook
